@@ -279,3 +279,6 @@ XZ Utils
       - Email: Lasse Collin <lasse.collin@tukaani.org>
       - IRC: Larhzu on Libera Chat
 
+Reproducible platform builds
+---------------------------
+See README.build.md for glibc, musl and macOS scripts, commands, pinned sources and support boundaries.
